@@ -13,7 +13,7 @@ project relaized in [VisibleSim](https://github.com/VisibleSim/VisibleSim)
 
 ---
 ## Viedo demonstration
-[![Watch the video](https://b.gorelkin.me/images/MRTP_link_to_youtube.png)](https://youtu.be/x4lbToZrboo)
+[![Watch the video](https://b.gorelkin.me/images/MRTP_link_to_youtube.png)](https://youtu.be/x4lbToZrboo){:target="_blank"}
 ## Introduction
 The main goal of this work is to compare the synchronization speed of modular robots using two algorithms. In the first case, we are getting a graph of the synchronization speed using the algorithm of Modular Robot Time Protocol (MRTP) <sup id="a1">[1](#f1)</sup>. In the second case, we are trying to improve MRTP algorithm using Simple Algorithm for Improving Time Synchronization in Wireless Sensor Networks <sup id="a2">[2](#f2)</sup>. </br>Result of this work is to compare those two graphs and based on obtained result make a conclusion which one is better.
 

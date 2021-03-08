@@ -9,7 +9,7 @@ authors:
 supervisor:
   * [Abdallah Makhoul](https://www.femto-st.fr/en/femto-people/amakhoul) <abdallah.makhoul@univ-fcomte.fr>
 
-project relaized in [VisibleSim](https://github.com/VisibleSim/VisibleSim)
+project relaized in [VisibleSim](https://github.com/VisibleSim/VisibleSim){:target="_blank"}
 
 ---
 ## Viedo demonstration

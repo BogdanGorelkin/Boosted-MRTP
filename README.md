@@ -1,4 +1,4 @@
-#Time synchronization for programmable matter based modular robots
+# Time synchronization for programmable matter based modular robots
 
 *Improving of Modular Robot Time Protocol (MRTP)*
 

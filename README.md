@@ -13,7 +13,6 @@ project relaized in [VisibleSim](https://github.com/VisibleSim/VisibleSim)
 
 ---
 ## Video demonstration 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x4lbToZrboo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [![Watch the video](https://b.gorelkin.me/images/MRTP_link_to_youtube.png)](https://youtu.be/x4lbToZrboo)
 ## Introduction
